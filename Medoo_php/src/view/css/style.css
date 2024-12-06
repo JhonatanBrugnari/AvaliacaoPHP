@@ -1,0 +1,47 @@
+input::placeholder {
+    color:rgb(59, 57, 57);
+}
+.labelF{
+   color: rgb(53, 51, 51);
+   font-size: 18px;
+}
+
+#filtro{
+ margin: 100px;
+ text-align: center;
+ margin-inline: 150px;
+ border-radius: 25px;
+}
+
+#limpar{
+  color: rgb(245, 243, 243);
+}
+
+h1{
+  text-align-last: center;
+  text-align: -webkit-center;
+
+}
+
+#logo {
+  margin-left: 15px;
+  
+}
+
+#cadastro {
+  text-align: -webkit-center;
+}
+
+#logoNv{
+
+  background-color: rgb(110, 204, 114);
+}
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+  color: transparent;
+}
+input[type=date]:focus::-webkit-datetime-edit {
+  color: black !important;
+}
+
+

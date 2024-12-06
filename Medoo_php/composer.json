@@ -1,0 +1,17 @@
+{
+    "name": "rob/medoo_php",
+    "autoload": {
+        "psr-4": {
+            "Rob\\MedooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JhonatanBrugnari",
+            "email": "brugnari.jhonatan@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^2.1"
+    }
+}
